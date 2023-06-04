@@ -75,7 +75,7 @@ def get_user_sticker(message):
 def useragentList():
     global headersUseragents
     headersUseragents.append(
-        'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 OPR/86.0.4363.70')
+        'Some UsrAgent')
     return (headersUseragents)
 
 
